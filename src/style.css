@@ -1,0 +1,41 @@
+.button {
+-fx-background-color: transparent;
+-fx-text-fill: #00ff45;
+}
+
+#openfile {
+/*-fx-background-image: url("img/Vika_Tang.png");
+-fx-background-size: 20 20;
+-fx-background-repeat: no-repeat;*/
+
+
+}
+
+#seek_slider {
+-fx-color: blue;
+-fx-background-color: transparent;
+
+}
+
+#play_button {
+
+
+}
+
+#anchorpane1 {
+-fx-background-image: url("img/IMG_0219.jpg");
+              -fx-background-repeat: no-repeat;
+              -fx-background-size: auto 100%;
+              -fx-background-position: center;
+              -fx-background-size: 1rem;
+              -fx-background-color: black;
+}
+
+#borderPane1 {
+-fx-background-image: url("img/IMG_0219.jpg");
+              -fx-background-repeat: no-repeat;
+              -fx-background-position: center;
+              -fx-background-size: 1rem;
+              -fx-background-size: auto 100%;
+              -fx-background-color: black;
+}
